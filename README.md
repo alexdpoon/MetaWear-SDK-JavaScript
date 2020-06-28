@@ -17,3 +17,4 @@ Then just do
 ```
 npm install --save "https://github.com/alexdpoon/MetaWear-SDK-JavaScript"
 ```
+
