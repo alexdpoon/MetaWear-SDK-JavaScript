@@ -1,6 +1,6 @@
-## MetaWear SDK for Javascript by MBIENTLAB (modified to work with Mac OS X Catalina)
+## MetaWear SDK for Javascript by MBIENTLAB (modified to work with Mac OS Catalina)
 
-Fork of [mbientlab/MetaWear-SDK-JavaScript](https://github.com/mbientlab/MetaWear-SDK-JavaScript) that uses [@abandonware/noble](https://github.com/abandonware/noble) under the hood for BLE and therefore works on Mac OS X Catalina.
+Fork of [mbientlab/MetaWear-SDK-JavaScript](https://github.com/mbientlab/MetaWear-SDK-JavaScript) that uses [@abandonware/noble](https://github.com/abandonware/noble) under the hood for BLE and therefore works on Mac OS Catalina.
 
 ### Installation
 
